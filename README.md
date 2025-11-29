@@ -17,10 +17,10 @@ Microsoft Excel - Power Query, Power Pivot and DAX
 ## Finance Report :
 
 - **Project objective:**
-    **1.** Create Profit and Loss (P&L) reports by fiscal year.
-    **2.** Create Profit and Loss (P&L) reports by fiscal month.
-    **3.** Create Profit and Loss (P&L) reports by country.
-    **4.** Create insight of GM % by Subzone-Fiscal Year.
+  - Create Profit and Loss (P&L) reports by fiscal year.
+  - Create Profit and Loss (P&L) reports by fiscal month.
+  - Create Profit and Loss (P&L) reports by country.
+  - Create insight of GM % by Subzone-Fiscal Year.
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
