@@ -7,8 +7,8 @@ Microsoft Excel - Power Query, Power Pivot and DAX
 
 - **Project Objectives:**
   - Create a Customer performace report.
-    **2.** Create a deatiled insights for comparison between Market performamce & Sales targets.
-    **3.** How new products (Year 2021) perfomed in market.
+  - Create a deatiled insights for comparison between Market performamce & Sales targets.
+  - How new products (Year 2021) perfomed in market.
 
 - **Purpose of Sales analytics** Empower businesses to monitor and evaluate their sales activities and performance.
 
