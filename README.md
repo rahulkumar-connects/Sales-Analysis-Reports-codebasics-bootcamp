@@ -1,4 +1,4 @@
-# Sales-Analysis-Reports-codebasics-bootcamp
+# Sales-and-Finance-Analysis-Reports-codebasics-bootcamp
 
 ##Tool Used :
 Microsoft Excel - Power Query, Power Pivot and DAX
@@ -27,7 +27,7 @@ Microsoft Excel - Power Query, Power Pivot and DAX
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
@@ -36,5 +36,6 @@ Microsoft Excel - Power Query, Power Pivot and DAX
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Refined understanding of Sales & Finance Reports.
 - [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Understand the importance & ability to create Project Priority Matrix & Scenario Planning.
